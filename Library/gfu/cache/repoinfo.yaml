@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-04-17T23:29:34.098-07:00
-  initializedAtString: 2020-04-17T22:44:32.101-07:00
+  lastUpdatedAtString: 2020-04-18T02:07:06.997-07:00
+  initializedAtString: 2020-04-18T02:07:06.997-07:00
   currentGitRemote:
     name: origin
-    url: https://github.com/Albert-Miao/my_immortal.git
+    url: git@github.com:Albert-Miao/my_immortal.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/Albert-Miao/my_immortal.git
+      url: git@github.com:Albert-Miao/my_immortal.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/Albert-Miao/my_immortal.git
+    url: git@github.com:Albert-Miao/my_immortal.git
   currentHead: 
