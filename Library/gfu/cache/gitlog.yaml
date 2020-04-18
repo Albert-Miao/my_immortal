@@ -13,9 +13,909 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-04-17T22:55:34.087-07:00
+  lastUpdatedAtString: 2020-04-17T23:31:22.871-07:00
   initializedAtString: 2020-04-17T22:45:23.534-07:00
   log:
+  - commitID: 354b04a308cac9eae4fb62d375f61f43fb8428f1
+    mergeA: 
+    mergeB: 
+    authorName: Albert Miao
+    authorEmail: amiao541769@gmail.com
+    commitEmail: amiao541769@gmail.com
+    commitName: Albert Miao
+    summary: more ASSets
+    description: 
+    timeString: 2020-04-17T23:04:49.000-07:00
+    commitTimeString: 2020-04-17T23:04:49.000-07:00
+    changes:
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\bookshelf.png
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\bookshelf.png
+      projectPath: Assets\Sprites\bookshelf.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\bookshelf.png.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\bookshelf.png.meta
+      projectPath: Assets\Sprites\bookshelf.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\bookshelf_side.png
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\bookshelf_side.png
+      projectPath: Assets\Sprites\bookshelf_side.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\bookshelf_side.png.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\bookshelf_side.png.meta
+      projectPath: Assets\Sprites\bookshelf_side.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\box.png
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\box.png
+      projectPath: Assets\Sprites\box.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\box.png.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\box.png.meta
+      projectPath: Assets\Sprites\box.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\00\0029a2ff3300fae36074d403b21091e5
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\00\0029a2ff3300fae36074d403b21091e5
+      projectPath: Library\Artifacts\00\0029a2ff3300fae36074d403b21091e5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\02\020e9b4c4fe14763d8ebfc54c713d0a1
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\02\020e9b4c4fe14763d8ebfc54c713d0a1
+      projectPath: Library\Artifacts\02\020e9b4c4fe14763d8ebfc54c713d0a1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\06\06d7893ebc9cb0405a7a1342015b92a2
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\06\06d7893ebc9cb0405a7a1342015b92a2
+      projectPath: Library\Artifacts\06\06d7893ebc9cb0405a7a1342015b92a2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\0c\0c212c4514c923491d550a619de6f06b
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\0c\0c212c4514c923491d550a619de6f06b
+      projectPath: Library\Artifacts\0c\0c212c4514c923491d550a619de6f06b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\12\12c6498466fc67a34db0252c8388a8e5
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\12\12c6498466fc67a34db0252c8388a8e5
+      projectPath: Library\Artifacts\12\12c6498466fc67a34db0252c8388a8e5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\13\13da2d49b135b37ef194fe89a386e61a
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\13\13da2d49b135b37ef194fe89a386e61a
+      projectPath: Library\Artifacts\13\13da2d49b135b37ef194fe89a386e61a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\24\24e5030161a815d7474f741cec84a3e1
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\24\24e5030161a815d7474f741cec84a3e1
+      projectPath: Library\Artifacts\24\24e5030161a815d7474f741cec84a3e1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\28\283a41a3ee08ec3b889f243e8d22a547
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\28\283a41a3ee08ec3b889f243e8d22a547
+      projectPath: Library\Artifacts\28\283a41a3ee08ec3b889f243e8d22a547
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\29\29e50ed050cb1d6a0b1ff9c1aa512a83
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\29\29e50ed050cb1d6a0b1ff9c1aa512a83
+      projectPath: Library\Artifacts\29\29e50ed050cb1d6a0b1ff9c1aa512a83
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\31\311a3faeeaaa9bf5f4bdf2232471452e
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\31\311a3faeeaaa9bf5f4bdf2232471452e
+      projectPath: Library\Artifacts\31\311a3faeeaaa9bf5f4bdf2232471452e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\32\32aaed923c937a49142cab1000c850b0
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\32\32aaed923c937a49142cab1000c850b0
+      projectPath: Library\Artifacts\32\32aaed923c937a49142cab1000c850b0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3a\3a4af273b3bd60abf3d431f46d492ce4
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\3a\3a4af273b3bd60abf3d431f46d492ce4
+      projectPath: Library\Artifacts\3a\3a4af273b3bd60abf3d431f46d492ce4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3f\3f563c95a48f73e4babcaa058300a271
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\3f\3f563c95a48f73e4babcaa058300a271
+      projectPath: Library\Artifacts\3f\3f563c95a48f73e4babcaa058300a271
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\40\40de52bd3c54b42c7bfea27a0f9515c7
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\40\40de52bd3c54b42c7bfea27a0f9515c7
+      projectPath: Library\Artifacts\40\40de52bd3c54b42c7bfea27a0f9515c7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\4f\4f3abf64a992ecac9f2e3bd35d399fd7
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\4f\4f3abf64a992ecac9f2e3bd35d399fd7
+      projectPath: Library\Artifacts\4f\4f3abf64a992ecac9f2e3bd35d399fd7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\58\5842cebd581b4d24c3e34e19f0ce555f
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\58\5842cebd581b4d24c3e34e19f0ce555f
+      projectPath: Library\Artifacts\58\5842cebd581b4d24c3e34e19f0ce555f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5c\5c09112b2919875a74b04595541795fb
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\5c\5c09112b2919875a74b04595541795fb
+      projectPath: Library\Artifacts\5c\5c09112b2919875a74b04595541795fb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\61\61e10e12e3b99fc7c4febc40b6c49334
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\61\61e10e12e3b99fc7c4febc40b6c49334
+      projectPath: Library\Artifacts\61\61e10e12e3b99fc7c4febc40b6c49334
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\61\61f5ccb89b309e63274f0e57d33b6fef
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\61\61f5ccb89b309e63274f0e57d33b6fef
+      projectPath: Library\Artifacts\61\61f5ccb89b309e63274f0e57d33b6fef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\66\664dee85d58745a376d2fc5f6f2479b4
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\66\664dee85d58745a376d2fc5f6f2479b4
+      projectPath: Library\Artifacts\66\664dee85d58745a376d2fc5f6f2479b4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\68\686c6fbe2172f1d344df095508383f6a
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\68\686c6fbe2172f1d344df095508383f6a
+      projectPath: Library\Artifacts\68\686c6fbe2172f1d344df095508383f6a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\6d\6d9a886762049fe80ee855227782db09
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\6d\6d9a886762049fe80ee855227782db09
+      projectPath: Library\Artifacts\6d\6d9a886762049fe80ee855227782db09
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\77\77b4b9aa0f5a0afd489bcd2921768709
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\77\77b4b9aa0f5a0afd489bcd2921768709
+      projectPath: Library\Artifacts\77\77b4b9aa0f5a0afd489bcd2921768709
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7a\7ad82fed21bd99b4c93783f666f5768d
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\7a\7ad82fed21bd99b4c93783f666f5768d
+      projectPath: Library\Artifacts\7a\7ad82fed21bd99b4c93783f666f5768d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\80\80a1269c005e479a7d8ccd10f2b17a4c
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\80\80a1269c005e479a7d8ccd10f2b17a4c
+      projectPath: Library\Artifacts\80\80a1269c005e479a7d8ccd10f2b17a4c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\81\816191ab4e5ee7949a14802940419c3a
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\81\816191ab4e5ee7949a14802940419c3a
+      projectPath: Library\Artifacts\81\816191ab4e5ee7949a14802940419c3a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\97\971f40603ac98f26236bf10119caba44
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\97\971f40603ac98f26236bf10119caba44
+      projectPath: Library\Artifacts\97\971f40603ac98f26236bf10119caba44
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\98\988d1ea2b3a577ae97c14e76258559f4
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\98\988d1ea2b3a577ae97c14e76258559f4
+      projectPath: Library\Artifacts\98\988d1ea2b3a577ae97c14e76258559f4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\98\98ce218ceaed9923a24bf4a5f5d3a475
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\98\98ce218ceaed9923a24bf4a5f5d3a475
+      projectPath: Library\Artifacts\98\98ce218ceaed9923a24bf4a5f5d3a475
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\9e\9e81de2fb1f951349c51d10f8adbd089
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\9e\9e81de2fb1f951349c51d10f8adbd089
+      projectPath: Library\Artifacts\9e\9e81de2fb1f951349c51d10f8adbd089
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a1\a136a91b77483d4da04b1f34cb8791d5
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\a1\a136a91b77483d4da04b1f34cb8791d5
+      projectPath: Library\Artifacts\a1\a136a91b77483d4da04b1f34cb8791d5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b1\b1f133f1289dbb9840d1d7cb995aaa00
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\b1\b1f133f1289dbb9840d1d7cb995aaa00
+      projectPath: Library\Artifacts\b1\b1f133f1289dbb9840d1d7cb995aaa00
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b5\b5ba88c65715b8b7c3f9112f67a318f9
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\b5\b5ba88c65715b8b7c3f9112f67a318f9
+      projectPath: Library\Artifacts\b5\b5ba88c65715b8b7c3f9112f67a318f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b8\b8e5b3fec0679d94a6b468e0fda3315c
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\b8\b8e5b3fec0679d94a6b468e0fda3315c
+      projectPath: Library\Artifacts\b8\b8e5b3fec0679d94a6b468e0fda3315c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\bb\bb86558f331feb7a4bc6d32ef8f29477
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\bb\bb86558f331feb7a4bc6d32ef8f29477
+      projectPath: Library\Artifacts\bb\bb86558f331feb7a4bc6d32ef8f29477
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\bf\bf57cf66b9ac02ed7d6290a1e3fa6af3
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\bf\bf57cf66b9ac02ed7d6290a1e3fa6af3
+      projectPath: Library\Artifacts\bf\bf57cf66b9ac02ed7d6290a1e3fa6af3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\bf\bfc795f6c88abbaa0fe3c5c49c21ce19
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\bf\bfc795f6c88abbaa0fe3c5c49c21ce19
+      projectPath: Library\Artifacts\bf\bfc795f6c88abbaa0fe3c5c49c21ce19
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c0\c061148feacb17128e42479584577ca6
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\c0\c061148feacb17128e42479584577ca6
+      projectPath: Library\Artifacts\c0\c061148feacb17128e42479584577ca6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c7\c7645c47c0fe2064dec22685fd0a7914
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\c7\c7645c47c0fe2064dec22685fd0a7914
+      projectPath: Library\Artifacts\c7\c7645c47c0fe2064dec22685fd0a7914
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cd\cd849662b0ed5268e2dbf8e860a32c38
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\cd\cd849662b0ed5268e2dbf8e860a32c38
+      projectPath: Library\Artifacts\cd\cd849662b0ed5268e2dbf8e860a32c38
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d3\d386952d67e79e92d1d9b7c4e050d722
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\d3\d386952d67e79e92d1d9b7c4e050d722
+      projectPath: Library\Artifacts\d3\d386952d67e79e92d1d9b7c4e050d722
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d4\d4607ce9c397ee7f645ee1645d64902c
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\d4\d4607ce9c397ee7f645ee1645d64902c
+      projectPath: Library\Artifacts\d4\d4607ce9c397ee7f645ee1645d64902c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d5\d5c5ac8d0094c23fa1ee6d7cd890be56
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\d5\d5c5ac8d0094c23fa1ee6d7cd890be56
+      projectPath: Library\Artifacts\d5\d5c5ac8d0094c23fa1ee6d7cd890be56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\dc\dcb0d77b7071fbb319e35f10a0f6cab3
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\dc\dcb0d77b7071fbb319e35f10a0f6cab3
+      projectPath: Library\Artifacts\dc\dcb0d77b7071fbb319e35f10a0f6cab3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e6\e6b934529408d8ee14a1c7b232e70ac2
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\e6\e6b934529408d8ee14a1c7b232e70ac2
+      projectPath: Library\Artifacts\e6\e6b934529408d8ee14a1c7b232e70ac2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\eb\ebe7a600fa2ef7a94cb35aeb69315b71
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\eb\ebe7a600fa2ef7a94cb35aeb69315b71
+      projectPath: Library\Artifacts\eb\ebe7a600fa2ef7a94cb35aeb69315b71
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f0\f03cd3bfb00ede8a1a9e16cbcc757fb5
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\f0\f03cd3bfb00ede8a1a9e16cbcc757fb5
+      projectPath: Library\Artifacts\f0\f03cd3bfb00ede8a1a9e16cbcc757fb5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f0\f068d4b64c9d97c6d83aa5e8720af20d
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\f0\f068d4b64c9d97c6d83aa5e8720af20d
+      projectPath: Library\Artifacts\f0\f068d4b64c9d97c6d83aa5e8720af20d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f1\f199cfe7df1a0eab314eefb249ed10c2
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\f1\f199cfe7df1a0eab314eefb249ed10c2
+      projectPath: Library\Artifacts\f1\f199cfe7df1a0eab314eefb249ed10c2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f4\f41f356d4e8dfe511904422f1f842a46
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\f4\f41f356d4e8dfe511904422f1f842a46
+      projectPath: Library\Artifacts\f4\f41f356d4e8dfe511904422f1f842a46
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f5\f5d5b20fd08dc07695262a66f1a0653f
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\f5\f5d5b20fd08dc07695262a66f1a0653f
+      projectPath: Library\Artifacts\f5\f5d5b20fd08dc07695262a66f1a0653f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f8\f8573408348b4a50aacadf89a9299446
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\f8\f8573408348b4a50aacadf89a9299446
+      projectPath: Library\Artifacts\f8\f8573408348b4a50aacadf89a9299446
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: a793e02c5bae10dfe2e8619ce174b6faa3ccf3d8
     mergeA: 
     mergeB: 
