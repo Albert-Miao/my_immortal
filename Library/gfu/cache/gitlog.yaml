@@ -13,9 +13,99 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-04-17T23:31:22.871-07:00
+  lastUpdatedAtString: 2020-04-17T23:34:55.362-07:00
   initializedAtString: 2020-04-17T22:45:23.534-07:00
   log:
+  - commitID: a2367e899ac5d998c01db59a2822bdb00850a270
+    mergeA: 
+    mergeB: 
+    authorName: Albert Miao
+    authorEmail: amiao541769@gmail.com
+    commitEmail: amiao541769@gmail.com
+    commitName: Albert Miao
+    summary: corner asset aded
+    description: 
+    timeString: 2020-04-17T23:34:01.000-07:00
+    commitTimeString: 2020-04-17T23:34:01.000-07:00
+    changes:
+    - path: Assets\Sprites\corner.png
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\corner.png
+      projectPath: Assets\Sprites\corner.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\corner.png.meta
+      fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\corner.png.meta
+      projectPath: Assets\Sprites\corner.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\14\144c35287ea27b32ced565f58b8e0a46
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\14\144c35287ea27b32ced565f58b8e0a46
+      projectPath: Library\Artifacts\14\144c35287ea27b32ced565f58b8e0a46
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\21\215cc4729f64cc48c34031c8c7162a64
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\21\215cc4729f64cc48c34031c8c7162a64
+      projectPath: Library\Artifacts\21\215cc4729f64cc48c34031c8c7162a64
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\dc\dc24576bff12bb60bc337ecccf6ae1e1
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\dc\dc24576bff12bb60bc337ecccf6ae1e1
+      projectPath: Library\Artifacts\dc\dc24576bff12bb60bc337ecccf6ae1e1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 354b04a308cac9eae4fb62d375f61f43fb8428f1
     mergeA: 
     mergeB: 

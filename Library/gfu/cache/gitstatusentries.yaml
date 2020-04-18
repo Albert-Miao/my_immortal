@@ -13,33 +13,357 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-17T23:33:25.324-07:00
+  lastUpdatedAtString: 2020-04-18T00:01:50.969-07:00
   initializedAtString: 2020-04-17T22:45:12.057-07:00
   entries:
-  - path: Assets\Sprites\corner.png
-    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\corner.png
-    projectPath: Assets\Sprites\corner.png
+  - path: Assets\New Palette.prefab
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\New Palette.prefab
+    projectPath: Assets\New Palette.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets\New Palette.prefab.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\New Palette.prefab.meta
+    projectPath: Assets\New Palette.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\bookshelf.png.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\bookshelf.png.meta
+    projectPath: Assets\Sprites\bookshelf.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\bookshelf_side.png.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\bookshelf_side.png.meta
+    projectPath: Assets\Sprites\bookshelf_side.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\box.png.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\box.png.meta
+    projectPath: Assets\Sprites\box.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Sprites\corner.png.meta
     fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\corner.png.meta
     projectPath: Assets\Sprites\corner.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\14\144c35287ea27b32ced565f58b8e0a46
-    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\14\144c35287ea27b32ced565f58b8e0a46
-    projectPath: Library\Artifacts\14\144c35287ea27b32ced565f58b8e0a46
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\couch.png.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\couch.png.meta
+    projectPath: Assets\Sprites\couch.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\door.png.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\door.png.meta
+    projectPath: Assets\Sprites\door.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Tiles.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles.meta
+    projectPath: Assets\Sprites\Tiles.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\dc\dc24576bff12bb60bc337ecccf6ae1e1
-    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\dc\dc24576bff12bb60bc337ecccf6ae1e1
-    projectPath: Library\Artifacts\dc\dc24576bff12bb60bc337ecccf6ae1e1
+  - path: Assets\Sprites\Tiles\Corner.asset
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Corner.asset
+    projectPath: Assets\Sprites\Tiles\Corner.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Corner.asset.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Corner.asset.meta
+    projectPath: Assets\Sprites\Tiles\Corner.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Door.asset
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Door.asset
+    projectPath: Assets\Sprites\Tiles\Door.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Door.asset.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Door.asset.meta
+    projectPath: Assets\Sprites\Tiles\Door.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Floor.asset
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Floor.asset
+    projectPath: Assets\Sprites\Tiles\Floor.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Floor.asset.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Floor.asset.meta
+    projectPath: Assets\Sprites\Tiles\Floor.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Wall.asset
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Wall.asset
+    projectPath: Assets\Sprites\Tiles\Wall.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Wall.asset.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Wall.asset.meta
+    projectPath: Assets\Sprites\Tiles\Wall.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Wall_Left.asset
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Wall_Left.asset
+    projectPath: Assets\Sprites\Tiles\Wall_Left.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Tiles\Wall_Left.asset.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\Tiles\Wall_Left.asset.meta
+    projectPath: Assets\Sprites\Tiles\Wall_Left.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\wall.png.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\wall.png.meta
+    projectPath: Assets\Sprites\wall.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\woodfloor.png.meta
+    fullPath: C:\Users\Albert\Documents\my_immortal\Assets\Sprites\woodfloor.png.meta
+    projectPath: Assets\Sprites\woodfloor.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\0c\0c4626634b19cc0bbf499fcbef2b9231
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\0c\0c4626634b19cc0bbf499fcbef2b9231
+    projectPath: Library\Artifacts\0c\0c4626634b19cc0bbf499fcbef2b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\16\16e36047ac1b87d7ff22a1fc5269154e
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\16\16e36047ac1b87d7ff22a1fc5269154e
+    projectPath: Library\Artifacts\16\16e36047ac1b87d7ff22a1fc5269154e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\233bf768319573a85520fb0ddd03faca
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\23\233bf768319573a85520fb0ddd03faca
+    projectPath: Library\Artifacts\23\233bf768319573a85520fb0ddd03faca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\28f26b5f51c259f2c4bf06de4ac949c0
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\28\28f26b5f51c259f2c4bf06de4ac949c0
+    projectPath: Library\Artifacts\28\28f26b5f51c259f2c4bf06de4ac949c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d9453850c7a7872d022d57cb32e85f6
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\2d\2d9453850c7a7872d022d57cb32e85f6
+    projectPath: Library\Artifacts\2d\2d9453850c7a7872d022d57cb32e85f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\34d78e6c6c92311f063c12b3614d9db6
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\34\34d78e6c6c92311f063c12b3614d9db6
+    projectPath: Library\Artifacts\34\34d78e6c6c92311f063c12b3614d9db6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3f7630cbe3ec0665979d8a9b70d95de6
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\3f\3f7630cbe3ec0665979d8a9b70d95de6
+    projectPath: Library\Artifacts\3f\3f7630cbe3ec0665979d8a9b70d95de6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49705755ad288c73824ebeee094446d5
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\49\49705755ad288c73824ebeee094446d5
+    projectPath: Library\Artifacts\49\49705755ad288c73824ebeee094446d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a6ae9c3fa08f73313a5ede6a68cb5ce
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\4a\4a6ae9c3fa08f73313a5ede6a68cb5ce
+    projectPath: Library\Artifacts\4a\4a6ae9c3fa08f73313a5ede6a68cb5ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4b1e66b95d19a229ad171e39185b61bf
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\4b\4b1e66b95d19a229ad171e39185b61bf
+    projectPath: Library\Artifacts\4b\4b1e66b95d19a229ad171e39185b61bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4e04441f480e42e4e199e5ef8dde09ba
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\4e\4e04441f480e42e4e199e5ef8dde09ba
+    projectPath: Library\Artifacts\4e\4e04441f480e42e4e199e5ef8dde09ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4f812e7c8797c1b7087bc461034a3986
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\4f\4f812e7c8797c1b7087bc461034a3986
+    projectPath: Library\Artifacts\4f\4f812e7c8797c1b7087bc461034a3986
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\557addbc4c18180bdec49d98c5dc33d4
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\55\557addbc4c18180bdec49d98c5dc33d4
+    projectPath: Library\Artifacts\55\557addbc4c18180bdec49d98c5dc33d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\67\67b86636c6c407774a1a951a7d59e53a
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\67\67b86636c6c407774a1a951a7d59e53a
+    projectPath: Library\Artifacts\67\67b86636c6c407774a1a951a7d59e53a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    projectPath: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6c\6c3f48bedf9334a9910983195caaa1ec
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\6c\6c3f48bedf9334a9910983195caaa1ec
+    projectPath: Library\Artifacts\6c\6c3f48bedf9334a9910983195caaa1ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6d7ca0794ccde74163daed568ca3d6b5
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\6d\6d7ca0794ccde74163daed568ca3d6b5
+    projectPath: Library\Artifacts\6d\6d7ca0794ccde74163daed568ca3d6b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\707fcbf1729efa471780e0196df540f5
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\70\707fcbf1729efa471780e0196df540f5
+    projectPath: Library\Artifacts\70\707fcbf1729efa471780e0196df540f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\76\76b8c9a9264bcc208fee27e7cc786add
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\76\76b8c9a9264bcc208fee27e7cc786add
+    projectPath: Library\Artifacts\76\76b8c9a9264bcc208fee27e7cc786add
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\77b4dd184396581540eb35093b033d91
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\77\77b4dd184396581540eb35093b033d91
+    projectPath: Library\Artifacts\77\77b4dd184396581540eb35093b033d91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\80\80b0eabb0e9ef96a02f6c4db55a2c0ae
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\80\80b0eabb0e9ef96a02f6c4db55a2c0ae
+    projectPath: Library\Artifacts\80\80b0eabb0e9ef96a02f6c4db55a2c0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\9088fb0ac94aeaa6d88dc8149eb72a5e
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\90\9088fb0ac94aeaa6d88dc8149eb72a5e
+    projectPath: Library\Artifacts\90\9088fb0ac94aeaa6d88dc8149eb72a5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a0759c45fab8d62558846016de4b47e3
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\a0\a0759c45fab8d62558846016de4b47e3
+    projectPath: Library\Artifacts\a0\a0759c45fab8d62558846016de4b47e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a4ee1c313e48a762ed986cd9b6551fa2
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\a4\a4ee1c313e48a762ed986cd9b6551fa2
+    projectPath: Library\Artifacts\a4\a4ee1c313e48a762ed986cd9b6551fa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bcf64cc772e1147a6b186c6b75ea964b
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\bc\bcf64cc772e1147a6b186c6b75ea964b
+    projectPath: Library\Artifacts\bc\bcf64cc772e1147a6b186c6b75ea964b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c99968541725123e577949ca31240359
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\c9\c99968541725123e577949ca31240359
+    projectPath: Library\Artifacts\c9\c99968541725123e577949ca31240359
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c9e859458adcab410641e656f681d8dd
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\c9\c9e859458adcab410641e656f681d8dd
+    projectPath: Library\Artifacts\c9\c9e859458adcab410641e656f681d8dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\ccbebc8773536b808e71008af98b15da
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\cc\ccbebc8773536b808e71008af98b15da
+    projectPath: Library\Artifacts\cc\ccbebc8773536b808e71008af98b15da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cd340f2f88dda50717c2f07b1121d61c
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\cd\cd340f2f88dda50717c2f07b1121d61c
+    projectPath: Library\Artifacts\cd\cd340f2f88dda50717c2f07b1121d61c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    projectPath: Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dd0424e94887027d69cdb6118444da72
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\dd\dd0424e94887027d69cdb6118444da72
+    projectPath: Library\Artifacts\dd\dd0424e94887027d69cdb6118444da72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ed\ed48661d15e0670286c77abd2c6cabbf
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\ed\ed48661d15e0670286c77abd2c6cabbf
+    projectPath: Library\Artifacts\ed\ed48661d15e0670286c77abd2c6cabbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef911664b1acdbd30f26678ce1af2d29
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\ef\ef911664b1acdbd30f26678ce1af2d29
+    projectPath: Library\Artifacts\ef\ef911664b1acdbd30f26678ce1af2d29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f6\f65b788db1063b764387d25f0b98408c
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\f6\f65b788db1063b764387d25f0b98408c
+    projectPath: Library\Artifacts\f6\f65b788db1063b764387d25f0b98408c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fe6ab6bdcc41711987439fa20c1f9611
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\Artifacts\fe\fe6ab6bdcc41711987439fa20c1f9611
+    projectPath: Library\Artifacts\fe\fe6ab6bdcc41711987439fa20c1f9611
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -70,15 +394,99 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Albert\Documents\my_immortal\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
+  - path: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ShaderCache\0\0450569572e776ec5097f7f6a66343c6.bin
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\ShaderCache\0\0450569572e776ec5097f7f6a66343c6.bin
+    projectPath: Library\ShaderCache\0\0450569572e776ec5097f7f6a66343c6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3f137944cce89b7088c70fbea1e759d7.bin
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\ShaderCache\3\3f137944cce89b7088c70fbea1e759d7.bin
+    projectPath: Library\ShaderCache\3\3f137944cce89b7088c70fbea1e759d7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\622a7f4bea7d41b29eabd5d151742359.bin
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\ShaderCache\6\622a7f4bea7d41b29eabd5d151742359.bin
+    projectPath: Library\ShaderCache\6\622a7f4bea7d41b29eabd5d151742359.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\76e121432ed96bf657122ab9eb6938b8.bin
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\ShaderCache\7\76e121432ed96bf657122ab9eb6938b8.bin
+    projectPath: Library\ShaderCache\7\76e121432ed96bf657122ab9eb6938b8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\795fb9ef84f8709bf68fcf6b0e3dc528.bin
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\ShaderCache\7\795fb9ef84f8709bf68fcf6b0e3dc528.bin
+    projectPath: Library\ShaderCache\7\795fb9ef84f8709bf68fcf6b0e3dc528.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9f58f9f457dc2f10ebf2faa5d50f95f0.bin
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\ShaderCache\9\9f58f9f457dc2f10ebf2faa5d50f95f0.bin
+    projectPath: Library\ShaderCache\9\9f58f9f457dc2f10ebf2faa5d50f95f0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Albert\Documents\my_immortal\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\31d8a8-6c2b8eda9730a244ab.json
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\StateCache\Hierarchy\31d8a8-6c2b8eda9730a244ab.json
+    projectPath: Library\StateCache\Hierarchy\31d8a8-6c2b8eda9730a244ab.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\31d8a8-mainStage.json
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\StateCache\Hierarchy\31d8a8-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\31d8a8-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\71f378-6c2b8eda9730a244ab.json
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\StateCache\SceneView\71f378-6c2b8eda9730a244ab.json
+    projectPath: Library\StateCache\SceneView\71f378-6c2b8eda9730a244ab.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\71f378-mainStage.json
+    fullPath: C:\Users\Albert\Documents\my_immortal\Library\StateCache\SceneView\71f378-mainStage.json
+    projectPath: Library\StateCache\SceneView\71f378-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
