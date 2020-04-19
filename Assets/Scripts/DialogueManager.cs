@@ -17,7 +17,8 @@ public class DialogueManager : MonoBehaviour {
 
     public Text dialogueBox;
     public Text nameBox;
-    public GameObject choiceBox;
+    public GameObject rightSpeaker;
+    public GameObject leftSpeaker;
 
     // Use this for initialization
     void Start () {
@@ -30,11 +31,15 @@ public class DialogueManager : MonoBehaviour {
         lineNum = 0;
     }
 
+
+    private void OnRenderObject() {
+        ShowDialogue();
+    }
+
     // Update is called once per frame
     void Update () {
         if (Input.GetMouseButtonDown (0) && playerTalking == false) {
             ShowDialogue();
-
             lineNum++;
         }
 
@@ -47,82 +52,30 @@ public class DialogueManager : MonoBehaviour {
     }
 
     void UpdateUI() {
-        if (!playerTalking) {
-            ClearButtons();
-        }
         dialogueBox.text = dialogue;
         nameBox.text = characterName;
     }
 
-    void ClearButtons() {
-        for (int i = 0; i < buttons.Count; i++) {
-            print ("Clearing buttons");
-            Button b = buttons[i];
-            buttons.Remove(b);
-            Destroy(b.gameObject);
-        }
-    }
-
     void ParseLine() {
-        if (parser.GetName (lineNum) != "Player") {
-            playerTalking = false;
-            characterName = parser.GetName (lineNum);
-            dialogue = parser.GetContent (lineNum);
-            pose = parser.GetPose (lineNum);
-            position = parser.GetPosition (lineNum);
-            DisplayImages();
-        } else {
-            playerTalking = true;
-            characterName = "";
-            dialogue = "";
-            pose = 0;
-            position = "";
-            options = parser.GetOptions(lineNum);
-            CreateButtons();
-        }
-    }
-
-    void CreateButtons() {
-        for (int i = 0; i < options.Length; i++) {
-            GameObject button = (GameObject)Instantiate(choiceBox);
-            Button b = button.GetComponent<Button>();
-            ChoiceButton cb = button.GetComponent<ChoiceButton>();
-            cb.SetText(options[i].Split(':')[0]);
-            cb.option = options[i].Split(':')[1];
-            cb.box = this;
-            b.transform.SetParent(this.transform);
-            b.transform.localPosition = new Vector3(0,-25 + (i*50));
-            b.transform.localScale = new Vector3(1, 1, 1);
-            buttons.Add (b);
-        }
+        characterName = parser.GetName (lineNum);
+        dialogue = parser.GetContent (lineNum);
+        pose = parser.GetPose (lineNum);
+        position = parser.GetPosition (lineNum);
+        DisplayImages();
     }
 
     void ResetImages() {
-        if (characterName != "") {
-            GameObject character = GameObject.Find (characterName);
-            SpriteRenderer currSprite = character.GetComponent<SpriteRenderer>();
-            currSprite.sprite = null;
-        }
+        rightSpeaker.GetComponent<Image>().color = Color.clear;
+        leftSpeaker.GetComponent<Image>().color = Color.clear;
     }
 
     void DisplayImages() {
         if (characterName != "") {
-            GameObject character = GameObject.Find(characterName);
-
-            SetSpritePositions(character);
-
-            SpriteRenderer currSprite = character.GetComponent<SpriteRenderer>();
-            currSprite.sprite = character.GetComponent<Character>().characterPoses[pose];
+            GameObject character = GameObject.Find (characterName);
+            Image currImg = (position == "R" ? rightSpeaker : leftSpeaker).GetComponent<Image>();
+            currImg.sprite = character.GetComponent<Character>().characterPoses[pose];
+            currImg.color = Color.white;
         }
     }
 
-
-    void SetSpritePositions(GameObject spriteObj) {
-        if (position == "L") {
-            spriteObj.transform.position = new Vector3 (-6, 0);
-        } else if (position == "R") {
-            spriteObj.transform.position = new Vector3 (6, 0);
-        }
-        spriteObj.transform.position = new Vector3 (spriteObj.transform.position.x, spriteObj.transform.position.y, 0);
-    }
 }
