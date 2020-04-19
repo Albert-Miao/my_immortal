@@ -11,6 +11,20 @@ public class PlayerController : MonoBehaviour
 
     private bool SPRITE_RIGHT = false;
     private bool SPRITE_LEFT = true;
+
+    private bool carrying = false;
+    public Sprite carrySprite;
+
+    public void setCarry()
+    {
+        this.carrying = true;
+        speed /= 2;
+    }
+    public bool isCarry()
+    {
+        return this.carrying;
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -32,6 +46,29 @@ public class PlayerController : MonoBehaviour
         else if (dx<0){
             this.GetComponent<SpriteRenderer>().flipX=SPRITE_LEFT;
         }
+
+        if (carrying)
+        {
+            this.GetComponent<SpriteRenderer>().sprite = carrySprite;
+        }
+            
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag == "Victim") 
+        {
+            Destroy(other.gameObject);
+            this.setCarry();
+        }
+
+        if (other.gameObject.tag == "Victim")
+        {
+            Destroy(other.gameObject);
+            this.setCarry();
+        }
+
+
     }
 
 }
